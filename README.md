@@ -1,2 +1,2 @@
 # StartingHtml
-this is a login page using html and css
+this is a simple login page using html and css
